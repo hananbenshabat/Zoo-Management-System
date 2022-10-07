@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (projectCPPPart1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Cage.cpp
+  Crocodile.cpp
+C:\Users\Aviv M Doron\Desktop\AvihaiMaslawi_AliMilhim (3)\projectCPPPart1\projectCPPPart1\Crocodile.cpp(13,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Reptile.cpp
+  projectCPPPart1.cpp
+  Generating Code...
+  projectCPPPart1.vcxproj -> C:\Users\Aviv M Doron\Desktop\AvihaiMaslawi_AliMilhim (3)\projectCPPPart1\x64\Debug\part2.exe
