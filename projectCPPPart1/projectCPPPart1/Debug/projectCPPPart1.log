@@ -1,23 +1,2 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (part2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Address.cpp
-  Animal.cpp
-  Bat.cpp
-E:\College\OneDrive - Afeka College Of Engineering\Fourth year - 2021\Second Semester\קרן כליף - 3 נז - C++ סדנא בתכנות מונחה עצמים עם\פרויקט\חנן ואביב\חלק 3\part 3\projectCPPPart1\projectCPPPart1\Bat.cpp(21,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Bird.cpp
-  Cage.cpp
-  Canfly.cpp
-  CanSwin.cpp
-  Crocodile.cpp
-E:\College\OneDrive - Afeka College Of Engineering\Fourth year - 2021\Second Semester\קרן כליף - 3 נז - C++ סדנא בתכנות מונחה עצמים עם\פרויקט\חנן ואביב\חלק 3\part 3\projectCPPPart1\projectCPPPart1\Crocodile.cpp(13,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Employee.cpp
-  Mammal.cpp
-  Lion.cpp
-E:\College\OneDrive - Afeka College Of Engineering\Fourth year - 2021\Second Semester\קרן כליף - 3 נז - C++ סדנא בתכנות מונחה עצמים עם\פרויקט\חנן ואביב\חלק 3\part 3\projectCPPPart1\projectCPPPart1\Lion.cpp(22,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Reptile.cpp
-  Ostrich.cpp
-  Parrot.cpp
-E:\College\OneDrive - Afeka College Of Engineering\Fourth year - 2021\Second Semester\קרן כליף - 3 נז - C++ סדנא בתכנות מונחה עצמים עם\פרויקט\חנן ואביב\חלק 3\part 3\projectCPPPart1\projectCPPPart1\Parrot.cpp(25,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  projectCPPPart1.cpp
-  Zoo.cpp
-  Generating Code...
-  projectCPPPart1.vcxproj -> E:\College\OneDrive - Afeka College Of Engineering\Fourth year - 2021\Second Semester\קרן כליף - 3 נז - C++ סדנא בתכנות מונחה עצמים עם\פרויקט\חנן ואביב\חלק 3\part 3\projectCPPPart1\Debug\part3.exe
+  projectCPPPart1.vcxproj -> C:\GitHub\Zoo-Management-System\projectCPPPart1\Debug\part3.exe
